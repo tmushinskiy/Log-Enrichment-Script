@@ -20,6 +20,6 @@ The Log Enrichment Script project focuses on improving the quality of security l
 - **YARA** – Pattern-matching for malware indicators  
 - **MISP** – Open-source threat intelligence platform for structured feeds  
 - **CyberChef** – Data transformation and IOC analysis  
-- **Jupyter Notebook** or **VS Code** – Script development and testing  
+- **Jupyter Notebook** – Script development and testing  
 
 ## Steps
